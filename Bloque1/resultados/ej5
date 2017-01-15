@@ -1,0 +1,3 @@
+Siguiendo a Chapman se observa que el tiempo real es ligeramente mayor que el tiempo de CPU de entre las muchas razones por las que puede ocurrir esto hay una común y es que la aplicación no obtubo un procesor completamente para él porque habí cierta carga en el sistema. 
+
+En ocasiones con paralelismo puede ocurrir que el tiempo real fuera menor que el tiempo de CPU.  Si bien puede haber sobrecargas adicionales.

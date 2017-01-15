@@ -1,0 +1,2 @@
+algunas iteraciones (las de hebra que ejecuta el single) obtienen el valor correcto y las demás 
+un valor basura. la razón es que no se les hace llegar (no se difunde) el valor de la variable leída

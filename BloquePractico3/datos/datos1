@@ -1,0 +1,74 @@
+con 15000 elementos
+rjraya@rjraya-SATELLITE-C55-A-1EL:~/Documentos/ac/practicas/BloquePractico3/ejecutable$ ./execsec.sh
+2
+run-sched-var=1, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0559147
+2
+run-sched-var=2, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0645444
+2
+run-sched-var=3, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0549552
+64
+run-sched-var=1, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0557320
+64
+run-sched-var=2, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0555740
+64
+run-sched-var=3, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0563637
+128
+run-sched-var=1, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0563929
+128
+run-sched-var=2, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0562218
+128
+run-sched-var=3, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0555104
+1024
+run-sched-var=1, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0572728
+1024
+run-sched-var=2, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0581269
+1024
+run-sched-var=3, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0570470

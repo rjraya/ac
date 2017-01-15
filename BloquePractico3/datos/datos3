@@ -1,0 +1,73 @@
+rjraya@rjraya-SATELLITE-C55-A-1EL:~/Documentos/ac/practicas/BloquePractico3/ejecutable$ ./ej9.sh
+numero de threads 1
+run-sched-var=3, 1
+M[0][0]:100
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0055309
+numero de threads 2
+run-sched-var=3, 1
+M[0][0]:100
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0033717
+numero de threads 3
+run-sched-var=3, 1
+M[0][0]:100
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0027385
+numero de threads 4
+run-sched-var=3, 1
+M[0][0]:100
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0063372
+numero de threads 1
+run-sched-var=3, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.4075048
+numero de threads 2
+run-sched-var=3, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1923390
+numero de threads 3
+run-sched-var=3, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1844769
+numero de threads 4
+run-sched-var=3, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1786152
+numero de threads 1
+run-sched-var=3, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:10.0689860
+numero de threads 2
+run-sched-var=3, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:5.0332257
+numero de threads 3
+run-sched-var=3, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:5.1312138
+numero de threads 4
+run-sched-var=3, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:4.9937790

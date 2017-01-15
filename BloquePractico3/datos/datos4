@@ -1,0 +1,217 @@
+[E2estudiante9@atcgrid l7]$ cat ej9.sh.o19872
+numero de threads 1
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0060256
+numero de threads 2
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0029170
+numero de threads 3
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0021377
+numero de threads 4
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0011927
+numero de threads 5
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0010656
+numero de threads 6
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0012515
+numero de threads 7
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0008361
+numero de threads 8
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0008983
+numero de threads 9
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0012230
+numero de threads 10
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0011975
+numero de threads 11
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0014669
+numero de threads 12
+run-sched-var=2, 1
+M[0][0]:145
+M[N-1][N-1]:490150
+
+Tiempo en ejecutar M1xM2:0.0011246
+numero de threads 1
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.6416499
+numero de threads 2
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.3213335
+numero de threads 3
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.2162353
+numero de threads 4
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1629139
+numero de threads 5
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1314676
+numero de threads 6
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.1087376
+numero de threads 7
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0932302
+numero de threads 8
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0815854
+numero de threads 9
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0724270
+numero de threads 10
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0652578
+numero de threads 11
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0602423
+numero de threads 12
+run-sched-var=2, 1
+M[0][0]:500
+M[N-1][N-1]:62250750
+
+Tiempo en ejecutar M1xM2:0.0550709
+numero de threads 1
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:8.0796325
+numero de threads 2
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:4.2218472
+numero de threads 3
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:2.9992729
+numero de threads 4
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:2.2670327
+numero de threads 5
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:1.8529285
+numero de threads 6
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:1.5434883
+numero de threads 7
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:1.3211113
+numero de threads 8
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:1.1617989
+numero de threads 9
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:1.0344383
+numero de threads 10
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:0.9248232
+numero de threads 11
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:0.8377671
+numero de threads 12
+run-sched-var=2, 1
+M[0][0]:1000
+M[N-1][N-1]:499001500
+
+Tiempo en ejecutar M1xM2:0.7712786

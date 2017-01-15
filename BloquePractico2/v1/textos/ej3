@@ -1,0 +1,4 @@
+todos los threads comparten la misma variable suma e imprimen 
+la misma.
+
+variando el número de threads varía la suma que se obtiene

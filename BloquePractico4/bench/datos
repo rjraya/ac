@@ -1,0 +1,141 @@
+version 1
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000277 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000229 
+Tiempo(seg.):0.000000300 
+Tiempo(seg.):0.000000257 
+Tiempo(seg.):0.000000271 
+media 268.8
+version 2
+Tiempo(seg.):0.000000261 
+Tiempo(seg.):0.000000381 
+Tiempo(seg.):0.000000268 
+Tiempo(seg.):0.000000231 
+Tiempo(seg.):0.000000237 
+Tiempo(seg.):0.000000231 
+Tiempo(seg.):0.000000304 
+Tiempo(seg.):0.000000244 
+Tiempo(seg.):0.000000271 
+Tiempo(seg.):0.000000277 
+media 270.5
+version 3 (desenrollo con 5)
+Tiempo(seg.):0.000000243 
+Tiempo(seg.):0.000000304 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000329 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000298 
+Tiempo(seg.):0.000000307 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000241 
+media 280.5 (desenrollo con 4)
+Tiempo(seg.):0.000000261 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000240 
+Tiempo(seg.):0.000000195 
+Tiempo(seg.):0.000000280 
+Tiempo(seg.):0.000000258 
+Tiempo(seg.):0.000000224 
+Tiempo(seg.):0.000000210 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000298 
+media 251.1 (desenrollo con 3)
+Tiempo(seg.):0.000000244 
+Tiempo(seg.):0.000000284 
+Tiempo(seg.):0.000000277 
+Tiempo(seg.):0.000000278 
+Tiempo(seg.):0.000000228 
+Tiempo(seg.):0.000000248 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000261 
+Tiempo(seg.):0.000000258 
+Tiempo(seg.):0.000000234 
+media 259.3
+concluimos que en mi caso es mejor desenrrollar con 4
+fin de bench3
+bench4 (grande desenrrolo 4)
+Tiempo(seg.):0.000000260 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000218 
+Tiempo(seg.):0.000000224 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000240 
+Tiempo(seg.):0.000000248 
+media 252.7
+Tiempo(seg.):0.000000260 
+Tiempo(seg.):0.000000223 
+Tiempo(seg.):0.000000232 
+Tiempo(seg.):0.000000247 
+Tiempo(seg.):0.000000251 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000260 
+Tiempo(seg.):0.000000284 
+Tiempo(seg.):0.000000284 
+Tiempo(seg.):0.000000260 
+no ofrece mejoras
+cambiando por sumas *2
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000227 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000244 
+Tiempo(seg.):0.000000294 
+Tiempo(seg.):0.000000280 
+Tiempo(seg.):0.000000274 
+media 265.6 
+cambiando por sumas <<1
+Tiempo(seg.):0.000000241 
+Tiempo(seg.):0.000000241 
+Tiempo(seg.):0.000000277 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000280 
+Tiempo(seg.):0.000000270 
+Tiempo(seg.):0.000000224 
+Tiempo(seg.):0.000000298 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000241 
+media 260
+con 1 desenrrollo y todo con sumas
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000257 
+Tiempo(seg.):0.000000246 
+Tiempo(seg.):0.000000217 
+Tiempo(seg.):0.000000244 
+Tiempo(seg.):0.000000314 
+Tiempo(seg.):0.000000257 
+Tiempo(seg.):0.000000304 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000230 
+media 258.7
+Tiempo(seg.):0.000000247 
+Tiempo(seg.):0.000000240 
+Tiempo(seg.):0.000000280 
+Tiempo(seg.):0.000000278 
+Tiempo(seg.):0.000000281 
+Tiempo(seg.):0.000000253 
+Tiempo(seg.):0.000000264 
+Tiempo(seg.):0.000000252 
+Tiempo(seg.):0.000000278 
+Tiempo(seg.):0.000000271 
+version final del bench5
+Tiempo(seg.):0.000000250 
+Tiempo(seg.):0.000000248 
+Tiempo(seg.):0.000000271 
+Tiempo(seg.):0.000000254 
+Tiempo(seg.):0.000000271 
+Tiempo(seg.):0.000000274 
+Tiempo(seg.):0.000000244 
+Tiempo(seg.):0.000000280 
+Tiempo(seg.):0.000000261 
+Tiempo(seg.):0.000000237 
+

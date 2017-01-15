@@ -1,0 +1,3 @@
+Sections fija el número de hebras a 4 (número de sections que utilizo)
+Parallel for se reparte las iteraciones entre todas las hebras. 
+En atcgrid, con un N alto se utilizarían todas las hebras.

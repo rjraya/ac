@@ -1,0 +1,3 @@
+devuelve el valor en la última iteración como a[6] = 6 devuelve
+6. si cambiara el número de iteraciones (y por tanto el tamaño del array
+cambiaría el resultado)

@@ -1,0 +1,4 @@
+Lo que ocurre es que no puede crear los vectores ya que su tamaño es demasiado grande
+unos 96 Gb de RAM
+
+En N sólo se pueden llegar a almacenar 2^32 - 1 porque es un entero sin signo.

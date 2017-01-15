@@ -1,0 +1,92 @@
+[E2estudiante9@atcgrid l6]$ cat execsec.sh.o19868
+2
+run-sched-var=1, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0342679
+2
+run-sched-var=2, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0493022
+2
+run-sched-var=3, 2
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0261245
+64
+run-sched-var=1, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0267778
+64
+run-sched-var=2, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0266884
+64
+run-sched-var=3, 64
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0264924
+128
+run-sched-var=1, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0276189
+128
+run-sched-var=2, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0279916
+128
+run-sched-var=3, 128
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0299362
+1024
+run-sched-var=1, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0420444
+1024
+run-sched-var=2, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0424946
+1024
+run-sched-var=3, 1024
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0456188
+
+
+tiempos por defecto
+
+run-sched-var=1, 0
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0478907
+run-sched-var=2, 1
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0515784
+run-sched-var=3, 1
+V2[0]:1
+V2[N-1]:112507500
+
+Tiempo en ejecutar MxV:0.0261805

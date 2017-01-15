@@ -1,0 +1,9 @@
+shared-clause.c: In function ‘main’:
+shared-clause.c:12: error: ‘n’ not specified in enclosing parallel
+shared-clause.c:11: error: enclosing parallel
+
+no se ha definido el alcance de la variable n que es lo que
+default(none) indica
+
+añadimos shared(n) de modo que n sea una variable compartida por 
+todos los threads

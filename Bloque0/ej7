@@ -1,0 +1,38 @@
+Id. usuario del trabajo: E2estudiante9
+Id. del trabajo: 4523.atcgrid
+Nombre del trabajo especificado por usuario: SumaVectoresC_vlocales
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/E2estudiante9
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Tiempo(seg.):0.000357436	 / Tamaño Vectores:65536	/ V1[0]+V2[0]=V3[0](6553.600000+6553.600000=13107.200000)v1[65535]+v2[65535]=v3[65535](13107.100000+0.100000=13107.200000) /
+Tiempo(seg.):0.000694688	 / Tamaño Vectores:131072	/ V1[0]+V2[0]=V3[0](13107.200000+13107.200000=26214.400000)v1[131071]+v2[131071]=v3[131071](26214.300000+0.100000=26214.400000) /
+Tiempo(seg.):0.001296994	 / Tamaño Vectores:262144	/ V1[0]+V2[0]=V3[0](26214.400000+26214.400000=52428.800000)v1[262143]+v2[262143]=v3[262143](52428.700000+0.100000=52428.800000) /
+
+
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24070 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24072 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24075 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24078 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24081 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24083 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24085 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+/var/lib/torque/mom_priv/jobs/4523.atcgrid.SC: line 20: 24087 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresLocal $N
+
+si se supera el tamaño de la pila se generará el error "Violación de Segmento". el tamaño de la pila es reservado por el sistema operativo
+
+en el ordenador local 
+
+Tiempo(seg.):0.000195757	 / Tamaño Vectores:65536	/ V1[0]+V2[0]=V3[0](6553.600000+6553.600000=13107.200000)v1[65535]+v2[65535]=v3[65535](13107.100000+0.100000=13107.200000) /
+Tiempo(seg.):0.000378877	 / Tamaño Vectores:131072	/ V1[0]+V2[0]=V3[0](13107.200000+13107.200000=26214.400000)v1[131071]+v2[131071]=v3[131071](26214.300000+0.100000=26214.400000) /
+Tiempo(seg.):0.000835334	 / Tamaño Vectores:262144	/ V1[0]+V2[0]=V3[0](26214.400000+26214.400000=52428.800000)v1[262143]+v2[262143]=v3[262143](52428.700000+0.100000=52428.800000) /
+./SumaVectores.sh: línea 21:  3620 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3621 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3623 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3624 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3625 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3626 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3627 Violación de segmento  ./SumaVectoresLocal $N
+./SumaVectores.sh: línea 21:  3628 Violación de segmento  ./SumaVectoresLocal $N
+
